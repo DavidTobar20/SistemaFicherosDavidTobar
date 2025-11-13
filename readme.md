@@ -15,9 +15,6 @@ El archivo `readme.txt` contiene texto simple que puede ser leído por el progra
 4. Cada línea leída se muestra por pantalla mediante `printf()`.
 5. Finalmente, se cierra el archivo con `fclose()` para liberar los recursos.
 
-## Ejemplo de salida esperada
-Al ejecutar el programa `lab01_Ficheros.c`, la salida en la terminal será similar a:
-
 
 ## Conclusión
 El archivo `readme.txt` permite comprobar el correcto funcionamiento de las funciones de lectura de ficheros en C, siendo una base para entender cómo los programas pueden interactuar con archivos de texto dentro de un sistema operativo.
